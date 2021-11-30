@@ -1,0 +1,7 @@
+.App nav {
+  display: flex;
+}
+
+.App nav div {
+  margin: 10px;
+}

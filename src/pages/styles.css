@@ -1,0 +1,14 @@
+.ListView {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-evenly;
+}
+
+.ListView li {
+  display: block;
+  width: 200px;
+}
+
+.ListView li button {
+  margin-left: 10px;
+}
